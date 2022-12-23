@@ -129,3 +129,21 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 ```
 
 </details>
+
+
+
+
+# صفحات 
+
+## [آموزش نصب خیلی خیلی سریع در هتزنر](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1)
+
+## [نصب پیشرفته](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1)
+
+
+# صفحه راهنمای کاربران
+
+با امکان تولید qrcode
+
+![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
+
+
