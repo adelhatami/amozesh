@@ -138,9 +138,15 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 # آموزش نصب 
 
-## [آموزش نصب خیلی خیلی سریع در هتزنر](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1)
+## [آموزش نصب خیلی خیلی سریع در هتزنر](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
 
-## [نصب پیشرفته](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1)
+## [Vultr نصب خیلی خیلی سریع در ولتر](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
+
+## [Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
+
+## [نصب سریع اگر سرور اوبونتو دارید](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-اگر-یک-سرور-دارید)
+
+## [نصب پیشرفته](https://github.com/hiddify/hiddify-config/wiki/راهنمای-نصب-پیشرفته)
 
 
 # صفحه راهنمای کاربران
