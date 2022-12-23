@@ -39,13 +39,6 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 ![image](https://user-images.githubusercontent.com/114227601/206862792-ed30c212-efe4-47cf-8973-c3129a09499f.png)
 
 پس از حداکثر 10 تا 15 دقیقه سرور شما آماده و پروکسی فعال خواهد بود
-مطابق عکس IP خود را کپی کنید و در مرورگر باز کنید
-
-
-![image](https://user-images.githubusercontent.com/114227601/209338222-f877bdb5-41eb-4a9b-bbf7-3dff453679a8.png)
-
-
-یادتون نره حداقل 10 دقیقه  صبر کنیدا
 
 
 حالا باید دامنه را تنظیم کنیم. بر روی [این لینک](https://github.com/hiddify/hiddify-config/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86-%D9%86%D8%B5%D8%A8) کلیک کنید تا نصب را نهایی کنید .
