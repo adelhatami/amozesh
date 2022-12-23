@@ -2,6 +2,9 @@
 
 
 ابتدا کد زیر را کپی کنید
+
+<div dir="ltr" markdown="1">
+
 ```
 #cloud-config
 package_upgrade: true
@@ -29,6 +32,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 # you can see the generated link from the website by using http://yourip/ or https://yourip.sslip.io in one hour, after that, it will be disapear. 
 ```
+</div>
 
 سپس در قسمت سرور تیک زیر را فشار دهید و کد بالا را در آن قرار دهید
 
