@@ -138,7 +138,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 از این طریق میتوان سرعت سرور بدون فیلترشکن و با فیلترشکن را بررسی کرد
 
-![image](https://user-images.githubusercontent.com/114227601/210174104-46c2ff57-1b43-4fe1-90b4-2136fc333d8f.png)
+![image](https://user-images.githubusercontent.com/114227601/210183115-4e1f4186-421e-4316-8082-3ce53275adc7.png)
 
 </details>
 
