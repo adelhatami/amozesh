@@ -132,8 +132,10 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 ```
 
 </details>
+<details  markdown="1"> <summary>Built in speed test</summary>
 
-
+از این طریق میتوان سرعت سرور بدون فیلترشکن و با فیلترشکن را بررسی کرد
+</details>
 
 
 # آموزش نصب 
