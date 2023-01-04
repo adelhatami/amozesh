@@ -7,30 +7,39 @@
 
 در این مقاله به شما آموزش میدهیم چگونه یک فیلترشکن اختصاصی مالتی پروتوکل در پورت 443 ایجاد کنید.
 موارد پشتیبانی شده:
-<details markdown="1"> <summary>Telegram MTProxy Proxy</summary>
- 
- پروکسی ایجاد شده یک پروکسی faketls هست که در صورتی که کلاینت غیر تلگرام به آن متصل شود سایت گوگل را نشان می‌دهد.
 
- `(faketls domain=mail.google.com)`
- 
-</details>
-<details  markdown="1"> <summary>Shadowsocks+obfs </summary>
- 
- پروکسی شدوساکس مشابه پروکسی تلگرام فوق، از faketls استفاده میکند تا ترافیک شدوساکس را پنهان کند.
+### Supported configs:
 
- `faketls domain=www.google.com` 
- 
-</details>
-<details markdown="1"> <summary>Shadowsocks+v2ray (cdn support)</summary>
- 
- این پروکسی، از v2ray استفاده میکند و یک زیرمسیر از سایت که با tls و http2 فعال است استفاده میکند
+##### telegram proxy
 
-</details>
-<details markdown="1"> <summary>vmess (cdn support)</summary>
+##### vless+xtls
 
-Same as v2ray
+##### ws (cdn support):
+ - vless+tls+ws 
+ - trojan+tls+ws 
+ - vmess+tls+ws 
 
-</details>
+##### h2+tls:
+ - vless+tls
+ - trojan+tls
+ - vmess+tls
+
+##### grpc+tls:
+ - vless+grpc+tls
+ - trojan+grpc+tls
+ - vmess+grpc+tls
+
+##### http1.1+tls:
+ - trojan+tls
+ - vmess+tls
+
+##### old configs:
+ - trojango (cdn support)
+ - v2ray+ws (cdn support)
+ - vmess (cdn support)
+ - ss+faketls
+
+
 <details markdown="1"> <summary>DNS over HTTPS (cdn support)</summary>
  
  برای استفاده از DNS over HTTPS کافی است در مرورگر از dns زیر استفاده کنید:
