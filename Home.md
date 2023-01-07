@@ -9,7 +9,7 @@
 موارد پشتیبانی شده:
 
 
-| Supported Configs | کانفیگ های پشتیبانی شده|
+| کانفیگ های پشتیبانی شده | Supported Configs |
 | - | - |
 | **Telegram Proxy** | **vless+xtls** |
 | **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
