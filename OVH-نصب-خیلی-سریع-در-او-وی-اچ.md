@@ -2,7 +2,11 @@
 
 فیلم زیر را مشاهده کنید
 
-https://github.com/hiddify/hiddify-config/blob/main/docs/OVHDoc.mp4
+[![OVH]
+(https://img.youtube.com/vi/06fMizOb-DE/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=06fMizOb-DE)
+
+
 
 حالا کد زیر را کپی کنید
 
