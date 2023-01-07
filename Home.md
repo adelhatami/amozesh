@@ -155,6 +155,8 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 # آموزش نصب 
 
+## [آموزش نصب خیلی خیلی سریع در OVH](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
+
 ## [آموزش نصب خیلی خیلی سریع در هتزنر](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
 
 ## [Vultr نصب خیلی خیلی سریع در ولتر](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
