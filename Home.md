@@ -166,14 +166,15 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 ## [نصب پیشرفته](https://github.com/hiddify/hiddify-config/wiki/راهنمای-نصب-پیشرفته)
 
 
-# صفحه راهنمای کاربران
+# صفحه راهنمای کاربران و ادمین
 
 با امکان تولید qrcode
-
+![HiddifyPanel](https://user-images.githubusercontent.com/114227601/211161591-13ec01df-b4a9-4bbb-b147-c8ecc52dc0f9.gif)
+<!--
 ![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
 
 
 # صفحه مدیریت 
 ![image](https://user-images.githubusercontent.com/114227601/209979538-cb3196aa-a832-4b06-95c4-37e9795e00cb.png)
-
+-->
 </div>
