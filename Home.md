@@ -133,17 +133,13 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 # آموزش نصب 
 
-## [آموزش نصب خیلی خیلی سریع در OVH (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
+## آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی
+- [آموزش نصب خیلی خیلی سریع در OVH (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
+- [آموزش نصب خیلی خیلی سریع در هتزنر (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
+- [نصب خیلی خیلی سریع در ولتر Vultr (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
+- [نصب-خیلی-خیلی-سریع-در-اوراکل-کلود (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
+## [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-اگر-یک-سرور-دارید)
 
-## [آموزش نصب خیلی خیلی سریع در هتزنر (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
-
-## [نصب خیلی خیلی سریع در ولتر Vultr (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
-
-## [نصب-خیلی-خیلی-سریع-در-اوراکل-کلود (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
-
-## [نصب سریع اگر سرور اوبونتو دارید](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-اگر-یک-سرور-دارید)
-
-## [نصب پیشرفته](https://github.com/hiddify/hiddify-config/wiki/راهنمای-نصب-پیشرفته)
 
 
 # صفحه راهنمای کاربران و ادمین
