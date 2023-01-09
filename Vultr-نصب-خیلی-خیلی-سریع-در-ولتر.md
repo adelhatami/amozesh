@@ -1,6 +1,11 @@
 <div dir="rtl" markdown="1">
 
 
+فیلم زیر مراحل را با جزییات کامل شرح داده است.
+
+[![vultr](https://img.youtube.com/vi/hRRg10BURJI/maxresdefault.jpg)](https://www.youtube.com/watch?v=hRRg10BURJI)
+
+
 ابتدا کد زیر را کپی کنید
 
 <div dir="ltr" markdown="1">
