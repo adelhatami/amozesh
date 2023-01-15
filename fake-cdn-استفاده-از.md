@@ -12,7 +12,8 @@
 
 
 مثل  snapp.ir یا arvancloud.ir اگه از آروان کلود استفاده میکنید
+
 یا meghdadit.com اگه از کلودفلر استفاده میکنید ([لیست سایت های موجود در کلودفلر](https://trends.builtwith.com/cdn/Cloudflare/Iran))
 
-
+[ابزار DNS Lookup](https://dns-lookup.com) برای بررسی اینکه سایتها در کلود فلر یا آروان هستند
 </div>
