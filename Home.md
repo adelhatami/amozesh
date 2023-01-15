@@ -139,7 +139,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 - [آموزش نصب خیلی خیلی سریع در OVH (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
 - [آموزش نصب خیلی خیلی سریع در هتزنر (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
 
-## آموزش نصب در سرور اوبونتو با ssh
+## آموزش نصب در سرور از پیش آماده اوبونتو با ssh 
 - [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
 
 
