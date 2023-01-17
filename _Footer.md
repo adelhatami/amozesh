@@ -11,7 +11,8 @@ We need several type of helps:
 - Kotlin Developer
 - Content Providers
 - Money Supports (we are non profit, however, for buting services, we need money)
-  - Ethereum : 0xF15ec158318d7F5236d82d040102340B0974C3E0
-  - Bitcoin: 3Epy7jyUUCVb1w12MNTu2JFVVhmfpr4EGX
+  - Ton (recommended): `EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_`
+  - Ethereum: `0xF15ec158318d7F5236d82d040102340B0974C3E0`
+  - Bitcoin: `3Epy7jyUUCVb1w12MNTu2JFVVhmfpr4EGX`
 
 If you can help us, please don't hesitate to contact us at hiddify@gmail.com
