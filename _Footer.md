@@ -11,7 +11,7 @@ We need several type of helps:
 - Kotlin Developer
 - Content Providers
 - Money Supports (we are non profit, however, for buying services, we need money)
-  - Ton (recommended): `EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_`
+  - Ton (recommended): [`EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_`](https://tonwhales.com/explorer/address/UQBcMO1OFsfEMZL3PfJpGGVjOan0Dz-eaBdqSaaWicazYT2b)
   - Ethereum: `0xF15ec158318d7F5236d82d040102340B0974C3E0`
   - Bitcoin: `3Epy7jyUUCVb1w12MNTu2JFVVhmfpr4EGX`
 
