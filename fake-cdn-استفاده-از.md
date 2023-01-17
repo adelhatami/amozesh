@@ -14,7 +14,7 @@
 
 مثل  snapp.ir یا arvancloud.ir اگه از آروان کلود استفاده میکنید
 
-یا foreca.com اگه از کلودفلر استفاده میکنید ([لیست سایت های موجود در کلودفلر](https://trends.builtwith.com/cdn/Cloudflare/Iran))
+یا foreca.com اگه از کلودفلر استفاده میکنید ([لیست سایت های موجود در کلودفلر](https://trends.builtwith.com/cdn/Cloudflare/Iran)) یا [لیست سایت های کلود فلر در ایران](https://index.woorank.com/en/reviews?countries=IR&technologies=cloudflare)
 
 [ابزار DNS Lookup](https://dns-lookup.com) برای بررسی اینکه سایتها در کلود فلر یا آروان هستند
 </div>
