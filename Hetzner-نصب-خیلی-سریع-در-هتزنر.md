@@ -5,6 +5,7 @@
 فیلم آموزش هتزنر از صفر تا صد
 [![Hetzner](https://img.youtube.com/vi/vQ-NAfRXTZo/maxresdefault.jpg)](https://www.youtube.com/watch?v=vQ-NAfRXTZo)
 
+مراحل:
 ![image](https://user-images.githubusercontent.com/114227601/206861285-58832cec-a2a3-441e-91d4-8300d16584d6.png)
 
 حالا کد زیر را کپی کنید
