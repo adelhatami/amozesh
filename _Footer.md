@@ -16,4 +16,4 @@ We need several type of helps:
   - Bitcoin: `3Epy7jyUUCVb1w12MNTu2JFVVhmfpr4EGX`
   - Dogecoin: `DJy27pQKwnhaRxWDbU6dG7UdHHif6yp8Jb`
 
-If you can help us, please don't hesitate to contact us at hiddify@gmail.com
+If you can help us, please don't hesitate to contact us at hiddify@proton.me
