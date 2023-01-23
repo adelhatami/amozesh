@@ -2,6 +2,7 @@
 
 
 فیلم زیر مراحل را با جزییات کامل شرح داده است.
+توجه کنید که حتما با فیلترشکن به سایت ولتر مراجعه کنید وگرنه اکانت شما را می بندد
 
 [![vultr](https://img.youtube.com/vi/hRRg10BURJI/maxresdefault.jpg)](https://www.youtube.com/watch?v=hRRg10BURJI)
 
