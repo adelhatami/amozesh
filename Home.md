@@ -142,7 +142,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 ## آموزش نصب در سرور از پیش آماده اوبونتو با ssh 
 - [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
-
+- [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
 
 
 # صفحه راهنمای کاربران و ادمین
