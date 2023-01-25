@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/114227601/214465657-af843292-d87d-4ecf-a992-b4bb2203c49a.png)
 
-</details
+</details>
 
 
 | کانفیگ های پشتیبانی شده | Supported Configs |
