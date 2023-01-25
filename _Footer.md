@@ -2,7 +2,7 @@
 
 اگر توانایی برنامه نویسی یا تولید محتوا دارید با ما در تماس باشید
 
-hiddify@gmail.com
+hiddify@proton.me
 
 همچنین ما برای سرویس هامون نیاز به کمک مالی هم داریم (ما دنبال سود نیستیم)
   - [Credit card and PayPal](https://opencollective.com/hiddify/contribute/backer-50556/checkout?interval=month&amount=25)
