@@ -2,7 +2,7 @@
 
 اگر توانایی برنامه نویسی یا تولید محتوا دارید با ما در تماس باشید
 
-hiddify@proton.me
+hiddify@gmail.com
 
 همچنین ما برای سرویس هامون نیاز به کمک مالی هم داریم (ما دنبال سود نیستیم)
 
@@ -27,4 +27,4 @@ We need several type of helps:
 - Kotlin Developer
 - Content Providers
 
-Please contact us at hiddify@proton.me if you can help us.
+Please contact us at hiddify@gmail.com if you can help us.
