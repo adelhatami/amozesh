@@ -17,8 +17,7 @@
 ابتدا وارد سایت [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) شوید
 و مراحل زیر را مطابق گیف زیر انجام دهید:
 
-{% include figure.html img="http://hiddify.github.io/assets/create_student_account.gif" alt="create student account in azure" caption="How to create student account in azure" %}
-
+![](http://hiddify.github.io/assets/create_student_account.gif)
 
 برای مشاهده میزان اعتبار باقیمانده در حساب کاربری خود از لینک زیر اقدام کنید
 [مشاهده اعتبار دانشجویی در azure](https://www.microsoftazuresponsorships.com/Balance)
@@ -32,8 +31,7 @@
 و مطابق گیف زیر مراحل را ادامه دهید.
 
 
-{% include figure.html img="https://github.com/hiddify/hiddify.github.io/raw/main/assets/azure-auto-deploy.gif" alt="create vm" caption="automatically create vm in azure" %}
-
+![](https://github.com/hiddify/hiddify.github.io/raw/main/assets/azure-auto-deploy.gif)
 <div class="alert alert-success">
 و لینک پروکسی تلگرام را از قسمت `output` کپی کنید. فراموش نکنید که این لینک پاک می شود پس آن را در جای امنی ذخیره کنید
 </div>
